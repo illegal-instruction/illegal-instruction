@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @illegal-instruction
-- 👀 I’m interested in Computer Architecture and High Performance Computing
-- 🌱 I’m currently doing a PhD in Computer Architecture. Researching about ways to exploit vector accelerators for challenging scientific applications
-- 💞️ I’m looking to collaborate on computer architecture and parallel applications research (and / or) development 
-- 📫 How to reach me constantino.gomez@esperantotech.com
+Computer Architecture PhD
 
 <!---
 illegal-instruction/illegal-instruction is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
