@@ -1,4 +1,5 @@
-Computer Architecture PhD
+Computer Architecture, PhD
+constantino.gomez@openchip.com
 
 <!---
 illegal-instruction/illegal-instruction is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
